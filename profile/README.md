@@ -16,4 +16,5 @@ Amazing!
 ## Video guides on using Agora
 - [Exploring delegates via filters and sorts on Uniswap](https://www.loom.com/share/0a5add5f87a64a3bb8c112831c65ff95)
 - [Making a delegation on Uniswap](https://www.loom.com/share/956db60e415d421b86a04917ea01bf85)
+- [Editing your delegate statement on Uniswap](https://www.loom.com/share/3556e5bf0d5b4766b89347baa35babb7)
 - [Creating a delegate statement with Optimism Multisig](https://www.loom.com/share/4833b161f3514e82adbf8d5445eb3cb6)
