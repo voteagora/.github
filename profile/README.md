@@ -1,4 +1,4 @@
-## Hi there, welcome to Agora! 👋
+## Hi there, welcome to Agora! 🎉
 
 <!--
 
@@ -11,15 +11,18 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Wooo! Thanks for joining us here, excited that you've landed on this page. Home to Agora!
+Wooo! 👋
+
+Thanks for joining us here, excited that you've landed on this page. Home to Agora!
 
 Everything is pretty basic right now, but we'll add more to this page as we keep building.
 
 In the meantime, if you have any questions, feedback, feature requests, we'd love to hear from you!
 
-Feel free to dm on Discord or Discourse, my username is: zcf -- looking forward to chatting
+Feel free to dm on Discord or Discourse, my username is: zcf
 
 Cheers,
+
 Charlie
 
 ## Video guides on using Agora
