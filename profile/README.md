@@ -1,7 +1,6 @@
-## Hi there, welcome to Agora! 🎉
-
 ![AgoraAnnouncementGraphic02](https://github.com/voteagora/.github/assets/5835973/522ef783-bfd3-46af-be8c-5b93017a8154)
 
+## Welcome to Agora!
 👋 Thanks for joining us here, excited that you've landed on this page. Home to Agora!
 
 Everything is pretty basic right now, but we'll add more to this page as we keep building. In the meantime, if you have any questions, feedback, feature requests, we'd love to hear from you! Feel free to dm on Discord or Discourse, my username is: zcf
