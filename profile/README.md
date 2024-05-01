@@ -1,13 +1,18 @@
 ![AgoraAnnouncementGraphic02](https://github.com/voteagora/.github/assets/5835973/522ef783-bfd3-46af-be8c-5b93017a8154)
 
 ## Welcome to Agora!
-👋 Thanks for joining us here, excited that you've landed on this page. Home to Agora!
 
-Everything is pretty basic right now, but we'll add more to this page as we keep building. In the meantime, if you have any questions, feedback, feature requests, we'd love to hear from you! Feel free to dm on Discord or Discourse, my username is: zcf
+Some of us come from open source. Others come from economic research. Others still come to rebuild the Internet on public protocols instead of private fiefdoms. We all converged on Ethereum to create better incentives, fund public goods, foster coordination, and some day, to slay [Moloch👹](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), the god of coordination failure.
 
-Cheers,
+Instead, out came pouring a torrent of sparkling coins and jpegs, unfettered markets, and eye-watering levels of leverage. It was all exciting and new, but it's hard not to feel like something was lost along the way.
 
-Charlie
+We've pushed the technology to new frontiers, but lost our heart along the way. We started Agora because we're convinced that Ethereum can be much more expansive and people-centric.
+
+We are Agora, the onchain governance company. 
+
+We build governance for [ENS](https://agora.ensdao.org/), [Uniswap](https://vote.uniswapfoundation.org/), [Optimism](https://vote.optimism.io/), [Nouns](https://nounsagora.com/), [Lyra](https://vote.lyra.finance/) and more.
+
+Deploy your governance today at [agora.xyz](https://agora.xyz).
 
 ## Video guides on using Agora
 - [Exploring delegates via filters and sorts on Uniswap](https://www.loom.com/share/0a5add5f87a64a3bb8c112831c65ff95)
