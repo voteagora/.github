@@ -1,25 +1,10 @@
 ## Hi there, welcome to Agora! 🎉
 
-<!--
+![AgoraAnnouncementGraphic02](https://github.com/voteagora/.github/assets/5835973/522ef783-bfd3-46af-be8c-5b93017a8154)
 
-**Here are some ideas to get you started:**
+👋 Thanks for joining us here, excited that you've landed on this page. Home to Agora!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-Wooo! 👋
-
-Thanks for joining us here, excited that you've landed on this page. Home to Agora!
-
-Everything is pretty basic right now, but we'll add more to this page as we keep building.
-
-In the meantime, if you have any questions, feedback, feature requests, we'd love to hear from you!
-
-Feel free to dm on Discord or Discourse, my username is: zcf
+Everything is pretty basic right now, but we'll add more to this page as we keep building. In the meantime, if you have any questions, feedback, feature requests, we'd love to hear from you! Feel free to dm on Discord or Discourse, my username is: zcf
 
 Cheers,
 
