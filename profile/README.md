@@ -17,4 +17,7 @@ Charlie
 - [Editing your delegate statement on Optimism](https://www.loom.com/share/03162cea104243f9872915e1d6335a8f?sid=d6b79f89-5334-461f-97e5-365fac886cb8)
 - [Voting with a multisig on Optimism](https://www.loom.com/share/a089c86eadd34bdf97bdc09f4e3aaf85?sid=2487216f-d9cf-4736-beae-5a7c610c685d)
 
+## Audits
+- [View OP Governance Audit reports](https://github.com/voteagora/governor/tree/main/audits)
+
 
